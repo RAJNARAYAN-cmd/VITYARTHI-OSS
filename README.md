@@ -149,7 +149,7 @@ Displays system-level information:
 
 ## 📚 Author
 
-** Rajnarayan Pawar **
+**Rajnarayan Pawar**
 Registration Number: 24BEC10089
 Course: Open Source Software
 
