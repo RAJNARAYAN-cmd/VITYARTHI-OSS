@@ -149,8 +149,8 @@ Displays system-level information:
 
 ## 📚 Author
 
-**Sayujya Tiwari**
-Registration Number: 24BCE10032
+**Rajnarayan Pawar**
+Registration Number: 24BEC10089
 Course: Open Source Software
 
 ---
